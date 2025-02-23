@@ -13,3 +13,24 @@ in context along with some insights, which in turn enhances user
 experience. Broadly speaking, movie recommendation systems prove 
 to be a nice way of allowing users to find exciting contents from the 
 myriad of resources that the world of cinema has in store for them.
+
+It is an objective of machine learning and, more particularly, of the application 
+of the k-Nearest Neighbors algorithm with content-based filtering in a movie 
+recommendation system that aims to recommend movies based on the analysis of 
+features extracted from movie content, such as genre, cast, director, or plot 
+keywords. The proposed work aims to enhance user experience through 
+personalization, recommending movies that best match user preference and 
+history of past interactions. The k-NN algorithm finds movies similar to the 
+original movie based on the closeness of their respective feature vectors. That 
+way, the algorithm will return movies that are contextually and thematically close 
+to what a user originally liked. This approach to content-based filtering takes into 
+account the intrinsic features of items in a list of recommendations, accordant 
+with the taste of a particular user. In such a way, the users would flow smoothly 
+to a detailed source for movie information by being redirected to the IMDb pages 
+of recommended movies, making the process of discovery smoother. With such 
+an approach, user engagement and satisfaction go up, the discovery of new films 
+goes up, and the retention rate increases due to the continuous refinement of 
+recommendations by user feedback and interaction. Besides, it is supportive to 
+both scalability and accuracy: even when the movie library is huge and the user 
+base becomes large, it will still be efficient and effective at making relevant 
+recommendations.
